@@ -1,13 +1,21 @@
 /* Add screen styles below */
 .textbox {
-    background-color: rgb(103, 102, 102);
-}
-
-.feedbackbox {
-    background-color: rgb(103, 102, 102);
-    height: 60%;
+    background-color: rgb(240, 227, 227);
+    padding: 1%;
+    border: solid 1px;
 }
 
 article {
     width: 55%;
+}
+
+p {
+    line-height: 7%;
+}
+
+.submit {
+    background-color: rgb(240, 227, 227);
+    padding: 2%;
+    border: solid 1px;
+    width: 15%;
 }
