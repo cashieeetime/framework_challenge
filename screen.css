@@ -1,1 +1,13 @@
 /* Add screen styles below */
+.textbox {
+    background-color: rgb(103, 102, 102);
+}
+
+.feedbackbox {
+    background-color: rgb(103, 102, 102);
+    height: 60%;
+}
+
+article {
+    width: 55%;
+}
